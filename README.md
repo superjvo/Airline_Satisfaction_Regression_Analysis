@@ -1,2 +1,4 @@
-# Airline_Satisfaction_Regression_Analysis
+# Airline Satisfaction Regression Analysis
 Predicting customer satisfaction from Invistico airline data to determine whether upgrading in-flight entertainment would result in an increase in satisfied customers
+# Overview
+In this scenario the stakeholders at Invistico Airlines are considering upgrading in-flight entertainment throughout the company and would like to know whether the quality of the entertainment options has an impact on customer satisfaction. By taking survey data of 129880 sample observations, a logistic regression model was generated to predict the satisfaction classification using only the entertainment variable in order to find any correlations. The model returned scores of 80% for accuracy and an 82% F1 score. While the model did show a correlation, there was still a relatively high number of false positives indicating there are additional factors that drive customer satisfaction. 
